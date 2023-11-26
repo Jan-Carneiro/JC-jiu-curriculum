@@ -1,12 +1,43 @@
+:root{
+    --cor0:#2929CC;
+    --cor1:#3D3D99;
+    --cor2:#0000FF;
+    --cor3:#3D3D66;
+    --cor4:#292933;
+}
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
 body{
     text-align: center;
+    color: var(--cor0);
 }
 header{
     border: 1px solid black;
+    height: 100px;
+    
 }
 main{
-    border: 1px solid black;
+       
+    width: 800px;
+    padding: 10px;
+    margin: auto;
 }
-nav{
-    border: 1px solid red;
+main > nav{
+    border-radius: 6px;
+    margin: auto;
+    margin-top: 10px;
+    padding: 10px;
+    width: 400px;
+    background-color: var(--cor2);
+   
 }
+a{
+    text-decoration: none;
+    color: white;
+    
+}
+
