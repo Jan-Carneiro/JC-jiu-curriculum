@@ -28,13 +28,13 @@ header > h1{
     
 }
 header > div{
-    border: 1px solid black;
-    width: 140px;
-    height: 140px;
+    
+    width: 150px;
+    height: 150px;
     border-radius: 100%;
-    background-color: black;
+    background-color: var(--cor0);
     background-image: url('imagens/logomarca.jpg');
-    background-size: 190px 190px;
+    background-size: 230px 230px;
     background-position: center center;
     background-repeat: no-repeat;
     margin: auto;
