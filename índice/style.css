@@ -27,12 +27,17 @@ header > h1{
     color: white;
     
 }
-header > img{
+header > div{
     border: 1px solid black;
     width: 140px;
     height: 140px;
     border-radius: 100%;
-    background-color: white;
+    background-color: black;
+    background-image: url('imagens/logomarca.jpg');
+    background-size: 190px 190px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    margin: auto;
 }
 main{
        
