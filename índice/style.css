@@ -13,30 +13,23 @@
 
 body{
     text-align: center;
-    color: var(--cor0);
+    color: black;
 }
 header{
-    border: 1px solid black;
     height: 250px;
-    background-color: var(--cor0);
+    background-color: white;
   
 }
 header > h1{
     font-size: 4em;
     padding-top: 20px;
-    color: white;
+    color: black;
     
 }
-header > div{
+header > img{
     
     width: 150px;
     height: 150px;
-    border-radius: 100%;
-    background-color: var(--cor0);
-    background-image: url('imagens/logomarca.jpg');
-    background-size: 230px 230px;
-    background-position: center center;
-    background-repeat: no-repeat;
     margin: auto;
 }
 main{
