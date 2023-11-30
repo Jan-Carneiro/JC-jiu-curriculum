@@ -1,0 +1,41 @@
+:root{
+    --cor0:#2929CC;
+    --cor1:#3D3D99;
+    --cor2:#0000FF;
+    --cor3:#3D3D66;
+    --cor4:#292933;
+}
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+body{
+    text-align: center;
+    color: black;
+}
+header{
+    height: 250px;
+    background-color: white;
+  
+}
+header > h1{
+    font-size: 4em;
+    padding-top: 20px;
+    color: black;
+    
+}
+header > img{
+    
+    width: 150px;
+    height: 150px;
+    margin: auto;
+}
+main{
+    border: 1px solid black;
+}
+main > h2{
+    text-align: left;
+    padding: 10px;
+}
