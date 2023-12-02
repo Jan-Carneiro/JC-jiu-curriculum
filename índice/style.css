@@ -47,15 +47,18 @@ main > nav{
     padding: 10px;
     width: 400px;
     background-color: var(--cor2);
-   
+    
 }
 
 nav.finalizações:hover > h3{
     display: block;
+        
 }
 main > nav > h3{
     color: white;
     display: none;
+    margin: 10px;
+    
 }
 main > nav > h2{
  
