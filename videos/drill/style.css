@@ -35,6 +35,17 @@ header > img{
 main{
     border: 1px solid black;
 }
+div{
+    background-color: #292933;
+    width: 580px;
+    height: 330px;
+    margin: auto;
+
+    
+    
+}
+
+ 
 main > h2{
     text-align: left;
     padding: 10px;
